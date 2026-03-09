@@ -55,7 +55,6 @@ Open Dinammo.xcodeproj in Xcode and Press Run (⌘R).
 
 #### Photo of Dinamo App
 |  |  |
-|:-----------:|:---------:|
 |![photo1](https://github.com/AleinikK666/DinamoMobileSecurityApp/blob/main/Photo/d1.png) | ![photo2](https://github.com/AleinikK666/DinamoMobileSecurityApp/blob/main/Photo/d2.png) |
 
 
