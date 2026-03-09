@@ -1,0 +1,11 @@
+# Ignore all certificates
+*.pem
+*.der
+!generate_certs.sh
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
