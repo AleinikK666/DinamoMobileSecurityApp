@@ -35,7 +35,7 @@ Displays real statistics of HC Dinamo Minsk: season stats, recent games, top sco
 ### 1.Clone & Generate Certificates
 ```bash
 git clone https://github.com/AleinikK666/DinamoMobileSecurityApp.git
-cd dinamo-ssl-pinning-security/ssl-pinning-server
+cd DinamoMobileSecurityApp/ssl-pinning-server
 chmod +x generate_certs.sh
 ./generate_certs.sh
 ```
