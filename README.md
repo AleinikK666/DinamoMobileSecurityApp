@@ -52,6 +52,8 @@ python3 server.py --cert invalid --port 8443
 ### 3.Configure & Run iOS App
 
 Open Dinammo.xcodeproj in Xcode and Press Run (⌘R).
+#### Photo of Dinamo App
+[фото1](!https://github.com/AleinikK666/DinamoMobileSecurityApp/blob/main/Photo/d1.png)
 
 ## Author
 Katya Aleinik, iOS-developer, connection: @katyaleinik
