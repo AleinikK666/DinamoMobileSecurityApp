@@ -1,4 +1,4 @@
-# Dinamo SSL Pinning Security App
+# Dinamo SSL Pinning Security 
 
 iOS application demonstrating SSL Pinning with HC Dinamo Minsk hockey data. Includes a Python server that runs with valid/invalid certificates to showcase protection against Man-in-the-Middle attacks.
 
