@@ -54,6 +54,7 @@ python3 server.py --cert invalid --port 8443
 Open Dinammo.xcodeproj in Xcode and Press Run (⌘R).
 
 #### Photo of Dinamo App
+|photo 1|photo 2|
 |:-----------:|:---------:|
 |![photo1](https://github.com/AleinikK666/DinamoMobileSecurityApp/blob/main/Photo/d1.png) | ![photo2](https://github.com/AleinikK666/DinamoMobileSecurityApp/blob/main/Photo/d2.png) |
 
